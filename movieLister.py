@@ -8,8 +8,8 @@ def list_films(folder_path, output_file):
         f.write(f"Films directory structure: {folder_path}\n")
         f.write("=" * 50 + "\n")
         
-        for root, _, files in os.walk(folder_path):
-            relative_path = os.path.relpath(root, folder_path)
+        for root, _, files in os.walk(folder_path): #goign through all folders
+            relative_path = os.path.relpath(root, folder_path) #get relative path
             relative_path = relative_path.replace(os.sep, '/')  
             if relative_path == ".":
                 relative_path = "films"
