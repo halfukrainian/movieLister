@@ -15,9 +15,18 @@ def list_films(folder_path, output_file):
                 relative_path = "films"
             
             films = [file for file in files if file.endswith(film_extensions)]
-            if films:
+            parent_folder = os.path.basename(root)  # Get the folder name
+            
+            # Ensure we only list the movie if the folder name matches the movie name
+            filtered_films = []
+            for file in films:
+                movie_name, _ = os.path.splitext(file)
+                if movie_name.lower() != parent_folder.lower():
+                    filtered_films.append(file)
+            
+            if filtered_films:
                 f.write(f"\n{relative_path}/\n")
-                for file in films:
+                for file in filtered_films:
                     f.write(f"  ├── {file}\n")
     
     print(f"Film list saved to {output_file}")

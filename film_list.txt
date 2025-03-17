@@ -1,0 +1,74 @@
+Films directory structure: D:\films
+==================================================
+
+films/
+  ├── 5 to 7.mkv
+  ├── About Time.mkv
+  ├── Match Point.mkv
+  ├── One Day.mkv
+  ├── Pain and Glory.mkv
+  ├── Shot Caller.mkv
+  ├── The Invisible Guest - Contratiempo.mkv
+
+cz sk filmy/
+  ├── Jak dostat tatínka do polepšovny (1978).mkv
+  ├── Karol - človek ktorý sa stal pápežom - Karol Człowiek który został papieżem - Karo A Man Who Became Pope.mkv
+  ├── Probudím se včera.mp4
+  ├── Sloboda pod nakladom.mkv
+  ├── Zit pre vasen.mp4
+
+Korean films/
+  ├── A Company Man - Hoisawon.mkv
+  ├── A Dirty Carnival - Biyeolhan geori.mkv
+  ├── A Taxi Driver - Taeksi Unjeonsa.mkv
+  ├── Burning - Beoning.mkv
+  ├── Call - Kol.mkv
+  ├── Confession - Jabaek.mkv
+  ├── Decision to Leave - Heojil kyolshim.mkv
+  ├── Deliver Us from Evil - Daman Ageseo Guhasoseo.mkv
+  ├── Extreme Job - Geukan Jigeop.mkv
+  ├── I Saw The Devil - Akmareul boattda.mkv
+  ├── Joint Security Area - Gongdong gyeongbi guyeok.mkv
+  ├── Lady Vengeance - Chinjeolhan geumjassi.mkv
+  ├── Man of Men - Peopekteu maen.mkv
+  ├── Memories of Murder - Salinui chueok.mkv
+  ├── Mother - Madeo.mkv
+  ├── New World - Sinsegye.mkv
+  ├── Oldboy - Oldeuboi.mkv
+  ├── Ordinary Person - Bo-tong-sa-ram.mkv
+  ├── Poetry - Si.mkv
+  ├── Right Now Wrong Then - Jigeumeunmaggogeuttaeneuntteulrida.mkv
+  ├── Searching.mkv
+  ├── Silenced - Dogani.mkv
+  ├── Sympathy for Mr Vengeance - Boksuneun naui geot.mkv
+  ├── Tae Guk Gi The Brotherhood of War - Taegeugki hwinalrimyeo.mkv
+  ├── The Bacchus Lady - Jukyeojaneun yeoja.mkv
+  ├── The Beast - Biseuteu.mkv
+  ├── The Chaser - Chugyeokja.mkv
+  ├── The Gangster the Cop the Devil - Ak-in-jeon.mkv
+  ├── The Good The Bad The Weird -  Joheunnom nabbeunnom isanghannom.mkv
+  ├── The Handmaiden - Agasshi.mkv
+  ├── The King - Deo king.mkv
+  ├── The Man From Nowhere - Ajeossi.mkv
+  ├── The Negotiation - Hyeobsang.mkv
+  ├── The Phone - Deo Pon.mkv
+  ├── The Policemans Lineage.mkv
+  ├── The Quiet Family - Joyonghan gajok.mkv
+  ├── The Show Must Go On - Uahan segye.mkv
+  ├── The Yellow Sea - Hwanghae.mkv
+  ├── Voice of Silence - Sorido eopsi.mkv
+
+The Hobbit/
+  ├── The Hobbit An Unexpected Journey.mkv
+  ├── The Hobbit The Battle of the Five Armies.mkv
+  ├── The Hobbit The Desolation of Smaug.mkv
+
+The Lord of the Rings/
+  ├── The Lord of the Rings The Fellowship of the Ring.mkv
+  ├── The Lord of the Rings The Return of the King.mkv
+  ├── The Lord of the Rings The Two Towers.mkv
+
+The.Lord.of.the.Rings Ai-Enhanced/
+  ├── The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.Extended.2160p.Ai-Enhanced.DV.HDR10Plus.H265.Atmos.TrueHD.7.1.RIFE4.14-60fps-DirtyHippie.mkv
+  ├── The.Lord.of.the.Rings.The.Return.Of.The.King.2003.EXTENDED.2160p.DV.HDR10.Ai-Enhanced.h265.TrueHD.Atmos.7.1-RIFE.4.15v2-60fps-DirtyHippie.mkv
+  ├── The.Lord.of.the.Rings.The.Two.Towers.2002.Extended.2160p.DV.HDR10.Ai-Enhanced.H265.Atmos.TrueHD.7.1-RIFE.4.15v2-60fps-DirtyHippie.mkv
