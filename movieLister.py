@@ -48,5 +48,3 @@ if __name__ == "__main__":
     else:
         print("Invalid path! Please check and try again.")
         input("\nPress Enter to exit...")
-
-

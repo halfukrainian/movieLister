@@ -1,0 +1,8 @@
+Films directory structure: C:\Users\Jan\Desktop\jan_file\photo_video\net
+==================================================
+
+films/
+  ├── Cockatiel Poko singing Totoro.mp4
+  ├── David Suchet shows us how he does Poirot's voice.mp4
+  ├── Good Morning Spis castle (4k by Phantom 4).mp4
+  ├── Ivry Gitlis - Sicilienne - Von Paradis.mp4
